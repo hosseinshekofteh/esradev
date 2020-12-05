@@ -2,7 +2,7 @@
   "name": "esradev",
   "version": "1.0.0",
   "scripts": {
-    "dev": "webpack",
+    "dev": "webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
